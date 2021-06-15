@@ -1,0 +1,8 @@
+C:\Users\choripower\Desktop\curso c#\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\choripower\Desktop\curso c#\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\choripower\Desktop\curso c#\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\choripower\Desktop\curso c#\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\choripower\Desktop\curso c#\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\choripower\Desktop\curso c#\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\choripower\Desktop\curso c#\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\choripower\Desktop\curso c#\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
