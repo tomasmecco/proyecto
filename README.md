@@ -1,4 +1,5 @@
 # proyecto
-usuario con permison de admin
+usuario con permisos de admin:
 admin@prueba.com 
+contraseña: 
 admin
